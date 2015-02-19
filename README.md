@@ -29,10 +29,10 @@ or with bundler in your Gemfile:
 
 [![Code Climate](https://codeclimate.com/github/jhund/undo-manager.png)](https://codeclimate.com/github/jhund/undo-manager)
 
-### License
+## License
 
 [MIT licensed](https://github.com/jhund/undo-manager/blob/master/MIT-LICENSE).
 
-### Copyright
+## Copyright
 
 Copyright (c) 2015 Jo Hund. See [(MIT) LICENSE](https://github.com/jhund/undo-manager/blob/master/MIT-LICENSE) for details.
